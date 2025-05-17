@@ -30,8 +30,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.8185624965962823,
-          "pitch": 0.08015065212774175,
+          "yaw": -0.8209541412124182,
+          "pitch": 0.06103372839308463,
           "rotation": 0,
           "target": "1-bedroom-3"
         },
@@ -204,8 +204,14 @@ var APP_DATA = {
           "target": "5-primary-bathroom"
         },
         {
-          "yaw": -2.808812207829005,
-          "pitch": 0.12593539391322572,
+          "yaw": 0.006658481148805961,
+          "pitch": 0.027339261738392295,
+          "rotation": 0,
+          "target": "0-kitchen"
+        },
+        {
+          "yaw": -2.7890055786724197,
+          "pitch": 0.1360710727392398,
           "rotation": 0,
           "target": "4-primary-bedroom-"
         }
@@ -252,6 +258,12 @@ var APP_DATA = {
           "pitch": 0.06558991613548848,
           "rotation": 0,
           "target": "12-backyard"
+        },
+        {
+          "yaw": 0.40679089053641704,
+          "pitch": 0.04302125555009084,
+          "rotation": 0,
+          "target": "2-kitchen-"
         }
       ],
       "infoHotspots": []
@@ -382,13 +394,13 @@ var APP_DATA = {
         {
           "yaw": -1.9145223854712512,
           "pitch": 0.08364519013150229,
-          "rotation": 0,
+          "rotation": 4.71238898038469,
           "target": "3-primary-bedroom"
         },
         {
           "yaw": -2.5236710105813387,
           "pitch": 0.1590882218688776,
-          "rotation": 0,
+          "rotation": 4.71238898038469,
           "target": "6-bedroom-2"
         }
       ],
@@ -430,20 +442,20 @@ var APP_DATA = {
           "target": "6-bedroom-2"
         },
         {
-          "yaw": -1.3727048634551426,
-          "pitch": -0.06336846559132425,
+          "yaw": -1.355573770946421,
+          "pitch": 0.07404081445010924,
           "rotation": 0,
           "target": "7-living-room"
         },
         {
-          "yaw": -2.702972560779058,
-          "pitch": 0.027019836286815035,
+          "yaw": -2.8550190884879765,
+          "pitch": 0.0840760532597642,
           "rotation": 0,
           "target": "9-dining-room"
         },
         {
-          "yaw": 2.664815938642173,
-          "pitch": -0.052666776951534544,
+          "yaw": 2.6364772770455387,
+          "pitch": 0.03424217873464386,
           "rotation": 0,
           "target": "0-kitchen"
         },
@@ -486,8 +498,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.0552633816554895,
-          "pitch": 0.1465956247745659,
+          "yaw": -3.0945670979125595,
+          "pitch": 0.127016048298227,
           "rotation": 0,
           "target": "7-living-room"
         },
